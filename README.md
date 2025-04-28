@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/23e57fd4-30a9-4011-b5bd-424db7e6fdbd)<p align="center">
   <h3 align="center">Pm2 Bots</h3>
 </p>
 
@@ -23,17 +23,21 @@ Botun Fiyatını Öğrenmek İçin Ve Botla İlgili Daha Çok Bilgi Almak İçin
 ![image](https://github.com/user-attachments/assets/e4e800a3-6aef-4035-b710-b07f72fb260d)
 ![image](https://github.com/user-attachments/assets/62c38356-0567-4336-8569-ee20323165d4)
 ![image](https://github.com/user-attachments/assets/97433264-f443-4a19-84fa-fce036e498c4)
-![image](https://github.com/user-attachments/assets/a54c7f78-40a2-43d0-87d4-fdfcf86db160)
+![image](https://github.com/user-attachments/assets/20257d45-0d21-4d41-9de4-335d79d2cf07)
+![image](https://github.com/user-attachments/assets/97460032-c5ed-4b6a-9c31-1d37685c9283)
 ![image](https://github.com/user-attachments/assets/35f337b7-b5d5-48d3-9fec-9dce1b5a6d9c)
-![image](https://github.com/user-attachments/assets/c5c30c66-ef37-4bbc-8baa-33ec7ab5d622)
-![image](https://github.com/user-attachments/assets/1a896b7e-011a-4f99-a0e1-f4e43cf324f6)
+![image](https://github.com/user-attachments/assets/566d9e63-a0a9-4e53-ac65-703957e3a541)
+![image](https://github.com/user-attachments/assets/3b37aad9-b822-400e-b973-b8e4c6bf0796)
 ![image](https://github.com/user-attachments/assets/10dc435b-ac80-402c-9813-f73bcdf0b0e2)
 ![image](https://github.com/user-attachments/assets/4ca3b8ad-a0e5-4941-b3c4-b8bcd8cbcd83)
-![image](https://github.com/user-attachments/assets/6f293929-e79f-4cb8-b700-ebe37ccee592)
+![image](https://github.com/user-attachments/assets/ece8ac73-23b7-4f18-b3fd-b4c88922fb4e)
+![image](https://github.com/user-attachments/assets/68306791-df60-4152-a52d-53edf4e9fe5b)
 ![image](https://github.com/user-attachments/assets/1dc790a9-1ed8-4e88-9158-c0fd92ac1020)
-![image](https://github.com/user-attachments/assets/3d9efd8e-dc16-41b6-b849-0dfc2f70a0b9)
+![image](https://github.com/user-attachments/assets/5dc00904-de14-43a2-9d07-76d7b5008c0f)
+![image](https://github.com/user-attachments/assets/c1586290-d105-4aaa-984c-7d3b8e07927a)
 ![image](https://github.com/user-attachments/assets/44c04474-fc91-465b-8f5c-bd4c62220486)
-![image](https://github.com/user-attachments/assets/e5065281-51ee-4c40-a457-d2fec3829667)
+![image](https://github.com/user-attachments/assets/5bcc21dd-9c92-4e1d-afd8-49ff0ad80547)
+![image](https://github.com/user-attachments/assets/cd264890-5929-4944-ba80-606cbf29d593)
 ![image](https://github.com/user-attachments/assets/adbd6a85-0d3f-44b8-9ce3-fbb381f4e37c)
 ![image](https://github.com/user-attachments/assets/d99daf08-ce04-451e-b815-1eb346fe9cb7)
 ![image](https://github.com/user-attachments/assets/1aabcb9a-3d6c-40a0-9029-cc00a69732c5)
