@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/23e57fd4-30a9-4011-b5bd-424db7e6fdbd)<p align="center">
+<p align="center">
   <h3 align="center">Pm2 Bots</h3>
 </p>
 
